@@ -1,0 +1,10 @@
+Sturen
+git add .
+git commit -m
+git push
+
+vi	Start Vim
+:wq	Sluit Vim
+vi bestandsnaam.extensie opent een file!
+i	tekst mode
+esc	edit mode
